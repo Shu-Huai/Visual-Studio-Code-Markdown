@@ -72,7 +72,7 @@
 
 首先需要清除原先的许可证。在许可证管理栏目中的安装许可证按钮旁边的下拉菜单中选择清除所有许可证，弹出警告，点击是。等待程序运行完毕，在操作结果栏目下的文本区域会显示形如：
 
-> Found 97 licenses to install.
+> Found 97 licenses to install.  
 > Number of Licenses Uninstalled = 97
 
 这样的文本，表示操作成功。
@@ -91,10 +91,10 @@
 
 最后，点击左上角的激活按钮，等待程序执行完毕，在操作结果栏目下的文本区域会显示形如：
 
-> Office 16, Office16MondoVL_KMS_Client edition
-> 许可证说明: Office 16, VOLUME_KMSCLIENT channel
-> 产品密钥的最后五个字符: XQBR2
-> <产品激活成功>。
+> Office 16, Office16MondoVL_KMS_Client edition  
+> 许可证说明: Office 16, VOLUME_KMSCLIENT channel  
+> 产品密钥的最后五个字符: XQBR2  
+> <产品激活成功>。  
 
 这样的文本信息，表示操作成功。
 
