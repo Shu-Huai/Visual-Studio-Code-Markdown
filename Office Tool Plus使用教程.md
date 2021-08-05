@@ -8,13 +8,13 @@
 
 ### 如果电脑中已经装有.NET 5 Desktop Runtime x86
 
-在这种情况下，可以直接运行文件夹根目录下的“Office Tool Plus.exe”已启动程序。需要注意的是，电脑中必须安装有x86版本的框架而非x64版本。
+在这种情况下，可以直接运行文件夹根目录下的“Office Tool Plus.exe”以启动程序。需要注意的是，电脑中必须安装有x86版本的框架而非x64版本。
 
 ### 如果电脑中未装有.NET 5 Desktop Runtime x86
 
 在这种情况下，运行文件夹根目录下的“RunMe.bat”以启动程序，脚本会自动加载.NET 5 Desktop Runtime x86，随后会自动运行“Office Tool Plus.exe”。如果你想要下载.NET 5 Desktop Runtime x86框架，请访问[https://dotnet.microsoft.com/download/dotnet/current/runtime](https://dotnet.microsoft.com/download/dotnet/current/runtime)。
 
-启动后，会提示需要阅读并接受使用条款。  
+启动后，会提示需要阅读并接受使用条款。
 接下来会出现一个以“微软 CDN 出现比较严重的问题。”为开头的消息提示，点击确定即可。
 
 ## 关于卸载
@@ -68,26 +68,30 @@
 
 点击主页面中的激活按钮，进入激活界面。
 
-首先需要清除原先的许可证。在许可证管理栏目中的安装许可证按钮旁边的下拉菜单中选择清除所有许可证，弹出警告，点击是。等待程序运行完毕，在操作结果栏目下的文本区域会显示形如：  
-> Found 97 licenses to install.  
+首先需要清除原先的许可证。在许可证管理栏目中的安装许可证按钮旁边的下拉菜单中选择清除所有许可证，弹出警告，点击是。等待程序运行完毕，在操作结果栏目下的文本区域会显示形如：
+
+> Found 97 licenses to install.
 > Number of Licenses Uninstalled = 97
 
 这样的文本，表示操作成功。
 
-接下来安装新的许可证。在许可证管理栏目中的选择产品选框中选择“Office Mondo 2016 - 批量版 - [MondoVolume]”，点击安装许可证，弹出注意信息，点击是即可。等待程序运行完毕，在操作结果栏目下的文本区域会显示如下信息：  
+接下来安装新的许可证。在许可证管理栏目中的选择产品选框中选择“Office Mondo 2016 - 批量版 - [MondoVolume]”，点击安装许可证，弹出注意信息，点击是即可。等待程序运行完毕，在操作结果栏目下的文本区域会显示如下信息：
+
 > <产品密钥安装成功>
 
 表示操作成功。
 
-然后输入KMS信息。在KMS管理栏目中的KMS主机字段填写“kms.loli.beer”，点击保存设置，在操作结果栏目下的文本区域会显示：  
+然后输入KMS信息。在KMS管理栏目中的KMS主机字段填写“kms.loli.beer”，点击保存设置，在操作结果栏目下的文本区域会显示：
+
 > 成功应用设置
 
 表示操作成功。
 
-最后，点击左上角的激活按钮，等待程序执行完毕，在操作结果栏目下的文本区域会显示形如：  
-> Office 16, Office16MondoVL_KMS_Client edition  
-> 许可证说明: Office 16, VOLUME_KMSCLIENT channel  
-> 产品密钥的最后五个字符: XQBR2  
+最后，点击左上角的激活按钮，等待程序执行完毕，在操作结果栏目下的文本区域会显示形如：
+
+> Office 16, Office16MondoVL_KMS_Client edition
+> 许可证说明: Office 16, VOLUME_KMSCLIENT channel
+> 产品密钥的最后五个字符: XQBR2
 > <产品激活成功>
 
 这样的文本信息，表示操作成功。
