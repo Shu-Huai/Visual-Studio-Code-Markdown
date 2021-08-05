@@ -14,4 +14,4 @@
 
 点击主页面中的激活按钮
 
-<img src="https://github.com/Shu-Huai/Visual-Studio-Code-Markdown/blob/master/Pictures/%E6%BF%80%E6%B4%BB%E6%8C%89%E9%92%AE.png" alt="激活按钮" style="zoom:50%;" />
+<img src="Pictures\001.png" alt="激活按钮" style="" />
