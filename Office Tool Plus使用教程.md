@@ -14,7 +14,7 @@
 
 在这种情况下，运行文件夹根目录下的“RunMe.bat”以启动程序，脚本会自动加载.NET 5 Desktop Runtime x86，随后会自动运行“Office Tool Plus.exe”。如果你想要下载.NET 5 Desktop Runtime x86框架，请访问[https://dotnet.microsoft.com/download/dotnet/current/runtime](https://dotnet.microsoft.com/download/dotnet/current/runtime)。
 
-启动后，会提示需要阅读并接受使用条款。
+启动后，会提示需要阅读并接受使用条款。  
 接下来会出现一个以“微软 CDN 出现比较严重的问题。”为开头的消息提示，点击确定即可。
 
 ## 关于卸载
